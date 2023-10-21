@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+}
